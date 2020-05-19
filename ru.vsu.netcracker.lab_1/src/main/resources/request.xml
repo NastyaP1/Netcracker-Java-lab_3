@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:gs="http://www.lab_3.com/springsoap/gen">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <gs:getPersonRequest>
+            <gs:name>14</gs:name>
+        </gs:getPersonRequest>
+    </soapenv:Body>
+</soapenv:Envelope>
